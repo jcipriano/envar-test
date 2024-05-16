@@ -1,2 +1,2 @@
 [build]
-    command = "echo '$DEPLOY_PRIME_URL'"
+    command = "echo $DEPLOY_PRIME_URL"
