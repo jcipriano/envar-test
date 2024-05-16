@@ -1,2 +1,2 @@
 [build]
-    command = "echo $CUSTOM_VAR"
+    command = "echo $DEPOY_URL"
